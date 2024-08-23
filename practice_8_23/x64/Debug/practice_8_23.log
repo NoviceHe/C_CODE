@@ -1,0 +1,3 @@
+﻿  test.c
+D:\code\vs2022\practice_8_23\practice_8_23\test.c(241,14): warning C4013: “strlen”未定义；假设外部返回 int
+  practice_8_23.vcxproj -> D:\code\vs2022\practice_8_23\x64\Debug\practice_8_23.exe
